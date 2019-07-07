@@ -6,7 +6,8 @@
 4、登录使用用户名和密码：
 username: admin@qq.com
 password: 12345678
-
+dfdsafdsa
+DDDDDDDDDDD
 其他：
 1、如果暂时不想使用redis，如何移除
 1) applicationContext.xml里移除 <import resource="redis.xml" />
